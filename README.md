@@ -314,7 +314,7 @@ Project-Flywire/
 ├── Dockerfile                 # Container configuration
 ├── README.md                  # Project documentation
 ├── data_files/               # Training data
-│   ├── credit_card_intent_labels 1.xlsx
+│   ├── credit_card_intent_labels.xlsx
 │   └── credit_card_queries_labeled.xlsx
 └── tests/                    # Test suite
     ├── __init__.py
