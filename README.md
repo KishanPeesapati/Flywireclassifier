@@ -1,6 +1,6 @@
 # Credit Card Intent Classification Service
 
-A containerized microservice that classifies credit card-related customer queries into intent categories using machine learning. Built with FastAPI and sentence transformers for fast, accurate intent detection to help customer support teams triage queries efficiently.
+A containerized microservice that classifies credit card-related customer queries into intent categories. Built with FastAPI and sentence transformers for fast, accurate intent detection to help customer support teams triage queries efficiently.
 
 ## Table of Contents
 
