@@ -37,6 +37,9 @@ INFO: Uvicorn running on http://0.0.0.0:8000
 
 **Verify it's working:**
 ```bash
+For Swagger UI
+http://0.0.0.0:8000/docs
+
 curl http://localhost:8000/health
 ```
 
@@ -51,9 +54,9 @@ curl http://localhost:8000/health
 - **Storage**: 500MB free space for model and dependencies
 
 ### Platform Support
-- ✅ macOS (Intel & Apple Silicon)
-- ✅ Linux (Ubuntu 18.04+, CentOS 7+)
-- ✅ Windows 10/11 with WSL2
+- macOS (Intel & Apple Silicon)
+- Linux (Ubuntu 18.04+, CentOS 7+)
+- Windows 10/11 with WSL2
 
 ---
 
