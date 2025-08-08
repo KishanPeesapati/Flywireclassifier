@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv/
+venv/
+classifier_env/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Data files (if you don’t want to version control them)
+# Uncomment if data_files folder shouldn't be tracked
+# data_files/
+
+# Docker artifacts
+*.tar
+*.img
+.cache/
+.cache/*
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MyPy
+.mypy_cache/
+
+# Profiling data
+.prof
+
+# Test reports
+junit*.xml
+
+# Others
+*.sqlite
+*.db
