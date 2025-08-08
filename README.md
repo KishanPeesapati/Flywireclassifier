@@ -311,7 +311,7 @@ List all available intent categories.
 
 ```
 Project-Flywire/
-├── classifier.py              # Core ML classification logic
+├── classifier.py              # classification logic
 ├── main.py                    # FastAPI service & endpoints
 ├── requirements.txt           # Python dependencies
 ├── Dockerfile                 # Container configuration
